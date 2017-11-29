@@ -1,5 +1,5 @@
 var ipad = navigator.userAgent.match(/iPad/i) != null;
-
+//Jodiendo el codigo de nuevo... ARRE!
 if (ipad) {
   $(function () {
     $('#left-controls, #right-controls').show();
